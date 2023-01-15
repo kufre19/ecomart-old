@@ -1,0 +1,4 @@
+500 = error with the backend server 
+401 = unauthorized request
+200 = request ok
+301 = logged in
